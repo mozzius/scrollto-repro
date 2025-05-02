@@ -1,12 +1,12 @@
 {
-  "name": "layout-anim-repro",
-  "slug": "layout-anim-repro",
-  "newArchEnabled": false,
+  "name": "scrollto-repro",
+  "slug": "scrollto-repro",
+  "newArchEnabled": true,
   "android": {
-    "package": "com.mozzius.layoutanimrepro"
+    "package": "com.mozzius.scrolltorepro"
   },
   "ios": {
-    "bundleIdentifier": "com.mozzius.layoutanimrepro"
+    "bundleIdentifier": "com.mozzius.scrolltorepro"
   },
   "plugins": ["expo-dev-client"]
 }
